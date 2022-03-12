@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @geraldohomero
-- 👀 I’m interested in Linux, ShellScript, Gnome, Front-end
+- 👀 I’m interested in Linux, ShellScript, Gnome, back-end
 - 🌱 I’m currently learning ShellScript
 - 💞️ I’m looking to collaborate on OpenSource projects
 - 📫 How to reach me @geraldohomero
