@@ -4,7 +4,7 @@
 - 👀 I’m interested in Linux, Shell script, Gnome, back-end
 - 🌱 I’m currently learning Shell script and back-end
 - 💞️ I'm looking to collaborate on OpenSource projects that want to make an impact on other people's lives 
-- 📫 How to reach me [Twitter](https://twiter.com/geraldohomero) [Instagram](https://instagra.com/geraldohomero)
+- 📫 How to reach me [Twitter](https://twiter.com/geraldohomero) [Instagram](https://instagram.com/geraldohomero)
 
 <!---
 geraldohomero/geraldohomero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
