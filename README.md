@@ -9,7 +9,7 @@
 
 
 # Some projects that i like:
-[RiseUp](https://riseup.net), [Proton](https://protonmail.com), [System76's Pop!_OS](https://system76.com), [Bitwarden](https://bitwarden.com), [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube/), [metaGer](https://metager.de)
+[RiseUp](https://riseup.net), [Proton](https://protonmail.com), [System76's Pop!_OS](https://system76.com), [Bitwarden](https://bitwarden.com), [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube/), [metaGer](https://metager.de), [TorProject](https://www.torproject.org/) and [Tails](https://tails.boum.org/)
 
 <!---
 geraldohomero/geraldohomero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
