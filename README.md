@@ -1,8 +1,8 @@
 # Welcome to my GitHub
 
 - 👋 Hi, I’m @geraldohomero
-- 👀 I’m interested in Linux, Shell script, Gnome, back-end
-- 🌱 I’m currently learning Shell script and back-end
+- 👀 I’m interested in Digital History, Linux, Shell script, Gnome, back-end
+- 🌱 I’m currently learning Shell script and HTML
 - 💞️ I'm looking to collaborate on OpenSource projects that want to make an impact on other people's lives 
 - 📫 How to reach me [Twitter](https://twiter.com/geraldohomero) [Instagram](https://www.instagram.com/geraldohomero/?theme=dark)
 
