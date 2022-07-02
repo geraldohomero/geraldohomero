@@ -1,4 +1,4 @@
-echo " Welcome to my GitHub
+## Welcome to my GitHub
 
 - 👋 Hi, I’m Geraldo Homero
 - 👀 I’m interested in Digital History, Linux, Shell script, Back-end and Data science
