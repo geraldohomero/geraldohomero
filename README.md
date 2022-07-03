@@ -16,8 +16,4 @@ Atuei como Arquivista e Gestor de documentação histórica e institucional da U
 # Some projects that i like:
 [RiseUp](https://riseup.net), [ProtonMail](https://protonmail.com), [Linux](https://www.linux.org/), [Pop!_OS](https://pop.system76.com), [Tails](https://tails.boum.org/), [LineageOS](https://www.lineageos.org/), [Bitwarden](https://bitwarden.com), [Zotero](HTTPS://zotero.org), [Sci-Hub](https://sci-hub.ru/), [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube/), [metaGer](https://metager.de), [DuckDuckGo](HTTPS://DuckDuckGo.com), [TorProject](https://www.torproject.org/), [Firefox](https://mozilla.org), [Brave](https://brave.com/), [Authy](https://authy.com), [FreeOTP](https://github.com/freeotp), [Nextcloud](https://nextcloud.com/), [LibreOffice](https://www.libreoffice.org/), [OpenStreetMap](https://www.openstreetmap.org), [Signal](https://signal.org), [uBlock Origin](https://github.com/gorhill/uBlock), [Dark Reader](https://darkreader.org/)
 ***
-<div>
-<a href="https://github.com/geraldohomero">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldohomero&layout=compact&langs_count=7&theme=dracula"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=geraldohomero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
