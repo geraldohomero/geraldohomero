@@ -9,9 +9,6 @@
 Pesquisador de História em nível de mestrado acadêmico na Universidade Federal de Juiz de Fora. Pesquiso principalmente sobre memória, redes sociais, algorítimo, YouTube, estudos críticos da internet, economia política da internet, infoespoliação, revisionismo e negacionismo histórico da ditadura militar brasileira.
 
 Atuei como Arquivista e Gestor de documentação histórica e institucional da Universidade Federal de Juiz de Fora. Participei de Treinamentos Profissionais e de projetos de Extensão e Iniciação Científica, tendo atuado na preservação, aclimatação, restauro e processamento técnico de acervo documental. Enquanto pesquisador de Iniciação Científica construí banco de dados para os arquivos digitais das entrevistas em História Oral realizadas pelo projeto do LABHOI/Afrikas.
-
-
-            <i class="devicon-vscode-plain colored"></i>
           
 
 # Some projects that i like:
