@@ -11,6 +11,9 @@ Pesquisador de História em nível de mestrado acadêmico na Universidade Federa
 Atuei como Arquivista e Gestor de documentação histórica e institucional da Universidade Federal de Juiz de Fora. Participei de Treinamentos Profissionais e de projetos de Extensão e Iniciação Científica, tendo atuado na preservação, aclimatação, restauro e processamento técnico de acervo documental. Enquanto pesquisador de Iniciação Científica construí banco de dados para os arquivos digitais das entrevistas em História Oral realizadas pelo projeto do LABHOI/Afrikas.
 
 
+            <i class="devicon-vscode-plain colored"></i>
+          
+
 # Some projects that i like:
 [RiseUp](https://riseup.net), [ProtonMail](https://protonmail.com), [Linux](https://www.linux.org/), [Pop!_OS](https://pop.system76.com), [Tails](https://tails.boum.org/), [LineageOS](https://www.lineageos.org/), [Bitwarden](https://bitwarden.com), [Zotero](HTTPS://zotero.org), [Sci-Hub](https://sci-hub.ru/), [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube/), [metaGer](https://metager.de), [DuckDuckGo](HTTPS://DuckDuckGo.com), [TorProject](https://www.torproject.org/), [Firefox](https://mozilla.org), [Brave](https://brave.com/), [Authy](https://authy.com), [FreeOTP](https://github.com/freeotp), [Nextcloud](https://nextcloud.com/), [LibreOffice](https://www.libreoffice.org/), [OpenStreetMap](https://www.openstreetmap.org), [Signal](https://signal.org), [uBlock Origin](https://github.com/gorhill/uBlock), [Dark Reader](https://darkreader.org/)
 ***
