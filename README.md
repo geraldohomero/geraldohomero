@@ -1,4 +1,4 @@
-# Welcome to my GitHub
+<h1 align="center">Welcome to my GitHub</h1>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=geraldohomero)
 
 - 👋 Hi, I’m Geraldo Homero
