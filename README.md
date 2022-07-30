@@ -2,8 +2,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=geraldohomero)  
 
-<p align="right"> <a href="https://twitter.com/geraldohomero" target="blank"><img src="https://img.shields.io/twitter/follow/geraldohomero?logo=twitter&style=for-the-badge" alt="geraldohomero" /></a> </p>
-
 - 👋 Hi, I’m Geraldo Homero
 - 👀 I’m interested in Digital History, Linux, Front-end and Data science
 - 🌱 I’m currently learning Shell script and Front-end
@@ -11,6 +9,7 @@
 - 📫 How to reach me [Twitter](https://twiter.com/geraldohomero) - [Instagram](https://www.instagram.com/geraldohomero/?theme=dark) - [LinkedIn](https://www.linkedin.com/in/geraldohomero/)
 - 🌐 Personal Website: https://geraldohomero.github.io
 - 🧾 Certification: [Alura](https://cursos.alura.com.br/user/geraldohomero/fullCertificate/13c42315e61114a41ec62b452ebf9869)
+<p align="left"> <a href="https://twitter.com/geraldohomero" target="blank"><img src="https://img.shields.io/twitter/follow/geraldohomero?logo=twitter&style=for-the-badge" alt="geraldohomero" /></a> </p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40" height="40"/>
          
