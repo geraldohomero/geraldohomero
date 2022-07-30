@@ -16,7 +16,7 @@
 
 - [Full list](https://github.com/geraldohomero/best-foss-alternatives)
 ***
-<div>
+<div align="center">
 <a href="https://github.com/geraldohomero">
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldohomero&layout=compact&langs_count=7&theme=dracula"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=geraldohomero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
