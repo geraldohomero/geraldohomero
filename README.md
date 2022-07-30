@@ -21,5 +21,7 @@
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldohomero&layout=compact&langs_count=7&theme=dracula"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=geraldohomero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
+<p align="center">
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=geraldohomero&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
+</p>
+
