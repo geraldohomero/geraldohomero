@@ -23,11 +23,3 @@
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldohomero&layout=compact&langs_count=7&theme=dracula"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=geraldohomero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geraldohomero&show_icons=true&locale=en&layout=compact" alt="geraldohomero" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geraldohomero&show_icons=true&locale=en" alt="geraldohomero" /></p>
-
