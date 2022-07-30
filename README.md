@@ -1,6 +1,7 @@
 # Welcome to my GitHub
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=geraldohomero)          
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=geraldohomero)  
+
 <p align="left"> <a href="https://twitter.com/geraldohomero" target="blank"><img src="https://img.shields.io/twitter/follow/geraldohomero?logo=twitter&style=for-the-badge" alt="geraldohomero" /></a> </p>
 
 - 👋 Hi, I’m Geraldo Homero
