@@ -6,7 +6,7 @@
 - 👀 I’m interested in Digital History, Linux, Front-end and Data science
 - 🌱 I’m currently learning Shell script and Front-end
 - 💞️ I'm looking to collaborate on OpenSource projects that want to make an impact on other people's lives 
-- 📫 How to reach me [Twitter](https://twiter.com/geraldohomero) - [Instagram](https://www.instagram.com/geraldohomero/?theme=dark) - [LinkedIn](https://www.linkedin.com/in/geraldohomero/)
+- 📫 How to reach me [Instagram](https://www.instagram.com/geraldohomero/?theme=dark) - [LinkedIn](https://www.linkedin.com/in/geraldohomero/)
 - 🌐 Personal Website: https://geraldohomero.github.io
 - 🧾 Certification: [Alura](https://cursos.alura.com.br/user/geraldohomero/fullCertificate/13c42315e61114a41ec62b452ebf9869)
 <p align="left"> <a href="https://twitter.com/geraldohomero" target="blank"><img src="https://img.shields.io/twitter/follow/geraldohomero?logo=twitter&style=for-the-badge" alt="geraldohomero" /></a> </p>
