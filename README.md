@@ -15,19 +15,12 @@
 
 
 `(function repeat() {
-
 eat();
-
 learn();
-
 coffee():
-
 code();
-
 sleep();
-
 repeat();
-
 })();`
 
 
