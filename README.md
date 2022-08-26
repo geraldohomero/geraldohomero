@@ -24,5 +24,5 @@
 ***
 <div>
 <a href="https://github.com/geraldohomero">
-<img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldohomero&layout=compact&langs_count=7&theme=dracula"/>
+<img height="100%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldohomero&layout=compact&langs_count=7&theme=dracula"/>
 </div>
