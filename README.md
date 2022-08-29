@@ -1,7 +1,6 @@
 # Welcome to my GitHub
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=geraldohomero)  
-
 - 👋 Hi, I’m Geraldo Homero
 - 👀 I’m interested in Digital History, Linux, Front-end and Data science
 - 🌱 I’m currently learning Python, Power BI and Front-end
