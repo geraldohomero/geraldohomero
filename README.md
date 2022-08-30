@@ -9,7 +9,6 @@
 - 🌐 Personal Website: https://geraldohomero.github.io
 - 🧾 Certification: [Alura](https://cursos.alura.com.br/user/geraldohomero/fullCertificate/13c42315e61114a41ec62b452ebf9869)
 
-
 <p align="left"> <a href="https://twitter.com/geraldohomero" target="blank"> <img src="https://img.shields.io/twitter/follow/geraldohomero?logo=twitter&style=for-the-badge" alt="geraldohomero" /></a> </p>
 
 # Tools and Skills!
