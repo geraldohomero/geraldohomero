@@ -24,4 +24,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldohomero&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geraldohomero&show_icons=true&theme=dracula)  
-![GitHub metrics](https://metrics.lecoq.io/geraldohomero)  
