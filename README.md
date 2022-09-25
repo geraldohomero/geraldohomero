@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Python, Power BI and Front-end
 - 💞️ I'm looking to collaborate on Open Source projects that want to make an impact on other people's lives 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/geraldohomero/) - [PUC-Minas](https://pucminas-csm.symplicity.com/profiles/geraldohomero) - [Alura](https://cursos.alura.com.br/user/geraldohomero)
-- 🌐 Personal Website: https://geraldohomero.github.io
+- 🌐 Personal Website: [geraldohomero.github.io](https://geraldohomero.github.io)
 - 🧾 Certification: [Alura](https://cursos.alura.com.br/user/geraldohomero/fullCertificate/13c42315e61114a41ec62b452ebf9869)
 
 # Tools and Skills!
