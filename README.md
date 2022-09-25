@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=geraldohomero)  
 - 👋 Hi, I’m Geraldo Homero
 - 👀 I’m interested in Digital History, Linux, Front-end and Data science
-- 🌱 I’m currently learning Python, Power BI and Front-end
+- 🌱 I’m currently learning Python, Power BI and .NET
 - 💞️ I'm looking to collaborate on Open Source projects that want to make an impact on other people's lives 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/geraldohomero/) - [PUC-Minas](https://pucminas-csm.symplicity.com/profiles/geraldohomero) - [Alura](https://cursos.alura.com.br/user/geraldohomero)
 - 🌐 Personal Website: [geraldohomero.github.io](https://geraldohomero.github.io)
