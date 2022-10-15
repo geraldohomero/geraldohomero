@@ -9,6 +9,8 @@
 - 🌐 Personal Website: [geraldohomero.github.io](https://geraldohomero.github.io)
 - 🧾 Certification: [Alura](https://cursos.alura.com.br/user/geraldohomero/fullCertificate/13c42315e61114a41ec62b452ebf9869)
 
+<a href="https://twitter.com/geraldohomero" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" height="30"/></a><a href="https://linkedin.com/in/geraldohomero" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
+
 # Tools and Skills!
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
@@ -26,6 +28,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geraldohomero&show_icons=true&theme=dracula)  
 
 
-<a href="https://twitter.com/geraldohomero" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" height="30"/></a><a href="https://linkedin.com/in/geraldohomero" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
+
 
 
