@@ -5,11 +5,9 @@
 - 👀 I’m interested in Digital History, Linux, Front-end and Back-end
 - 🌱 I’m currently learning Python, Power BI and .NET Core
 - 💞️ I'm looking to collaborate on Open Source projects that want to make an impact on other people's lives 
-- 📫 My Resumes [PUC-Minas](https://pucminas-csm.symplicity.com/profiles/geraldohomero) - [Alura](https://cursos.alura.com.br/vitrinedev/geraldohomero)
+- 📫 My Resumes [LinkedIn](https://linkedin.com/in/geraldohomero) - [PUC-Minas](https://pucminas-csm.symplicity.com/profiles/geraldohomero) - [Alura](https://cursos.alura.com.br/vitrinedev/geraldohomero)
 - 🌐 Personal Website: [geraldohomero.github.io](https://geraldohomero.github.io)
 - 🧾 Certification: [Alura](https://cursos.alura.com.br/user/geraldohomero/fullCertificate/13c42315e61114a41ec62b452ebf9869)
-
-<a href="https://twitter.com/geraldohomero" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" height="30"/></a><a href="https://linkedin.com/in/geraldohomero" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/> <a href="https://instagram.com/geraldohomero" target="_blank"> <img src="https://img.icons8.com/color/40/000000/instagram-new--v1.png"/>
  
 # Tools and Skills!
 
