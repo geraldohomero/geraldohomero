@@ -26,5 +26,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geraldohomero&show_icons=true&theme=dracula)  
 
 
-<a href="https://twitter.com/geraldohomero" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40"/></a>
+<a href="https://twitter.com/geraldohomero" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" height="30"/></a>
+<a href="https://linkedin.com/in/geraldohomero target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/> <\a>
+
 
