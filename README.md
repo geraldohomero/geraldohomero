@@ -9,7 +9,7 @@
 - 🌐 Personal Website: [geraldohomero.github.io](https://geraldohomero.github.io)
 - 🧾 Certification: [Alura](https://cursos.alura.com.br/user/geraldohomero/fullCertificate/13c42315e61114a41ec62b452ebf9869)
 
-<a href="https://twitter.com/geraldohomero" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" height="30"/></a><a href="https://linkedin.com/in/geraldohomero" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/> <a href="https://instagram.com/geraldohomero" target="_blank"> <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
+<a href="https://twitter.com/geraldohomero" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" height="30"/></a><a href="https://linkedin.com/in/geraldohomero" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/> <a href="https://instagram.com/geraldohomero" target="_blank"> <img src="https://img.icons8.com/color/40/000000/instagram-new--v1.png"/>
  
 # Tools and Skills!
 
