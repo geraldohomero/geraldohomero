@@ -23,5 +23,4 @@
 - [Full list](https://github.com/geraldohomero/best-foss-alternatives)
 
 ***
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geraldohomero&show_icons=true&theme=dracula)  
