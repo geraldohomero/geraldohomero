@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Geraldo Homero
 - 👀 I’m interested in Digital History, Linux and Full stack
-- 🌱 I’m currently learning Python, Power BI and .NET Core
+- 🌱 I’m currently learning C#, .NET Core, SQL and React
 - 💞️ I'm looking to collaborate on Open Source projects that want to make an impact on other people's lives 
 - 📫 My Resumes [LinkedIn](https://linkedin.com/in/geraldohomero) - [PUC-Minas](https://pucminas-csm.symplicity.com/profiles/geraldohomero) - [Alura](https://cursos.alura.com.br/vitrinedev/geraldohomero)
 - 🌐 Personal Website: [geraldohomero.github.io](https://geraldohomero.github.io)
