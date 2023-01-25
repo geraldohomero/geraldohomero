@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/70844369/214717397-84a9e16d-84e9-48dc-b682-d1400cadde7a.png)
+![image](https://user-images.githubusercontent.com/70844369/214717661-221d7cca-3589-4071-b9b0-8d64be41c849.png)
 
 - 👀 I’m interested in: Digital History, Linux and Full stack
 - 🌱 I’m currently learning: C#, .NET Core, SQL and React
