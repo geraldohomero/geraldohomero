@@ -1,6 +1,5 @@
-# Welcome to my GitHub
+![image](https://user-images.githubusercontent.com/70844369/214717397-84a9e16d-84e9-48dc-b682-d1400cadde7a.png)
 
-- 👋 Hi, I’m Geraldo Homero
 - 👀 I’m interested in: Digital History, Linux and Full stack
 - 🌱 I’m currently learning: C#, .NET Core, SQL and React
 - 💞️ I'm looking to collaborate on Open Source projects that want to make an impact on other people's lives 
