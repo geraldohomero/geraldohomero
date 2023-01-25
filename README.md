@@ -8,19 +8,19 @@
 - 🧾 [Certificates](https://geraldohomero.github.io/certificados)
 - 📫 How to reach me: 
  
-<a href="https://linkedin.com/in/geraldohomero/" target="_blank">
+<a href="https://linkedin.com/in/geraldohomero/"/)>
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://twitter.com/geraldohomero" target="_blank">
+<a href="https://twitter.com/geraldohomero"/)>
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
 </a>
-<a href="https://mastodon.social/@geraldohomero" target="_blank">
+<a href="https://mastodon.social/@geraldohomero"/)>
     <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon">
 </a>
-<a href="https://instagram.com/geraldohomero" target="_blank">
+<a href="https://instagram.com/geraldohomero"/)>
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="https://dev.to/geraldohomero" target="_blank">
+<a href="https://dev.to/geraldohomero"/)>
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to blog">
 </a>
 
@@ -37,7 +37,7 @@
 
 >*Powered by:*
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/?target=_blank)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/)
 [![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)](https://pop.system76.com/)
 [![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)](https://tails.boum.org/)
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)](https://manjaro.org/)
