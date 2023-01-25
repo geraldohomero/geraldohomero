@@ -4,7 +4,8 @@
 - 👀 I’m interested in: Digital History, Linux and Full stack
 - 🌱 I’m currently learning: C#, .NET Core, SQL and React
 - 💞️ I'm looking to collaborate on Open Source projects that want to make an impact on other people's lives 
-- 🖥️ Current OS: Pop!_OS, Manjaro and Debian on VM's 
+- 🖥️ Current OS: Pop!_OS
+   - VM's: Manjaro and Debian 
 - 🧾 [Certificates](https://geraldohomero.github.io/certificados)
 - 📫 How to reach me: 
  
