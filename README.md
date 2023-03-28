@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/70844369/214718557-cfae56a9-07f7-4cd3-8464-1e379acccfd5.png)
 
 - 👋 Hi, I’m Geraldo Homero
-- 👀 I’m interested in: Digital History, Linux and Full stack
+- 👀 I’m interested in: Full Stack Development, Digital History and Linux
 - 🌱 I’m currently learning: C#, .NET Core, SQL and React
 - 💞️ I'm looking to collaborate on Open Source projects that want to make an impact on other people's lives 
 - 🖥️ Current OS: Pop!_OS (main) - Manjaro and Debian (VM)
