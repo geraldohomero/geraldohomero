@@ -6,7 +6,7 @@
 - 💞️ I'm looking to collaborate on Open Source projects that want to make an impact on other people's lives 
 - 🖥️ Current OS: Pop!_OS (main) - Manjaro and Debian (VM)
 - 🧾 [Certificates](https://geraldohomero.github.io/certificados)
-- [Resume](./Resume/ResumeCurriculo-Geraldo.pdf)
+- 🗃️ [Resume](./Resume/ResumeCurriculo-Geraldo.pdf)
 - 📫 How to reach me: 
  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldohomero/)
