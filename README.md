@@ -19,6 +19,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 
 
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=geraldohomero&show_icons=true&theme=dracula" width="467" height="195" style="width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldohomero&layout=compact&theme=dracula&langs_count=8" width="300" height="195" style="width: 50%;">
+</div>
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=geraldohomero&show_icons=true&theme=dracula" width="460" height="195">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldohomero&layout=compact&theme=dracula&langs_count=8" width="300" height="195">
 
