@@ -46,15 +46,14 @@
 [![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://libreoffice.org/)
 [![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)](https://gohugo.io/)
 
-<details style="width:10%; float:left;">
-<summary>Hardware</summary>
+<div  style="width:10%; float:left;">
 <ul>
   <li>Ryzen 5 1600</li>
   <li>HyperX Fury 16gb (2x8)</li>
   <li>GTX 1060 6gb</li>
   <li>Corsair VS500</li>
 </ul>
-</details>
+</div>
 
 <div style="width:10%; float:left;">
 <ul>
