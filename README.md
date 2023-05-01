@@ -46,7 +46,7 @@
 [![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://libreoffice.org/)
 [![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)](https://gohugo.io/)
 
-<div  style="float:left;">
+<div  style="align: left;">
 <ul>
   <li>Ryzen 5 1600</li>
   <li>HyperX Fury 16gb (2x8)</li>
