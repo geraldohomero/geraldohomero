@@ -48,6 +48,6 @@
 [![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)](https://gohugo.io/)
 
 <details>
-<summary>Read more</summary>
-<p>Place your additional text here.</p>
+<summary>Hardware</summary>
+- List
 </details>
