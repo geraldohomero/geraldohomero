@@ -48,7 +48,6 @@
 
 <details>
 <summary>Hardware</summary>
-- List
 <ul>
   <li>Ryzen 5 1600</li>
   <li>HyperX Fury 16gb</li>
