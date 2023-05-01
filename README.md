@@ -54,7 +54,6 @@
   <li>Corsair VS500</li>
 </ul>
 </div>
-
 <div style="float:left;">
 <ul>
   <li>Ryzen 5 1600</li>
