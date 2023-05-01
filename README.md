@@ -49,5 +49,10 @@
 
 <details>
 <summary>Hardware</summary>
-- List
+<ul>
+  <li>Ryzen 5 1600</li>
+  <li>HyperX Fury 16gb</li>
+  <li>GTX 1060 6gb</li>
+  <li>Corsair VS500</li>
+</ul>
 </details>
