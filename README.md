@@ -13,7 +13,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/geraldohomero)
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/geraldohomero)
-[![Twitter](https://skillicons.dev/icons?i=witter)](https://twitter.com/geraldohomero)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/geraldohomero)
 [![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://mastodon.social/@geraldohomero)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/geraldohomero)
 
