@@ -7,10 +7,10 @@
 - 🖥️ Current OS: Pop!_OS (main) - Manjaro and Debian (VM)
 - 🧾 [Certificates](https://geraldohomero.github.io/en/certificates/)
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic)](https://linkedin.com/in/geraldohomero/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&style=plastic)](https://twitter.com/geraldohomero)
-[![Mastodon](https://img.shields.io/badge/-Mastodon-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white&style=plastic)](https://mastodon.social/@geraldohomero)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&style=plastic)](https://instagram.com/geraldohomero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldohomero/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/geraldohomero)
+[![Mastodon](https://img.shields.io/badge/-Mastodon-%232B90D9?style=plastic&logo=mastodon&logoColor=white)](https://mastodon.social/@geraldohomero)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/geraldohomero)
 
 # Skills and Languages!
 
