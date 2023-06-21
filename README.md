@@ -25,6 +25,7 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/)
 [![Pop!\_OS](https://img.shields.io/badge/pop!\_os-48B9C7?style=for-the-badge&logo=popos&logoColor=white)](https://pop.system76.com/)
 [![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)](https://tails.boum.org/)
+[![NixOS](https://img.shields.io/badge/nixos-5277C3.svg?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)](https://manjaro.org/)
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://debian.org/)
 [![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/os/download/)
