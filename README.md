@@ -23,7 +23,7 @@
 >*Powered by:*
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/)
-[![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white)](https://pop.system76.com/)
+[![Pop!\_OS](https://img.shields.io/badge/popos-48B9C7?style=for-the-badge&logo=popos&logoColor=white)](https://pop.system76.com/)
 [![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)](https://tails.boum.org/)
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)](https://manjaro.org/)
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://debian.org/)
