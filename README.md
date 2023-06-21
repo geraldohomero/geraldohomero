@@ -43,4 +43,4 @@
 [![Joplin](https://img.shields.io/badge/joplin-1071D3.svg?style=for-the-badge&logo=joplin&logoColor=white)](https://joplinapp.org/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
 [![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)](https://gohugo.io/)
-[![Codium](https://img.shields.io/badge/vscodium-2F80ED.svg?style=for-the-badge&logo=vscodium&logoColor=white)](https://gohugo.io/)
+[![Codium](https://img.shields.io/badge/VSCodium-2F80ED.svg?style=for-the-badge&logo=vscodium&logoColor=white)](https://gohugo.io/)
