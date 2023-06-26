@@ -46,4 +46,3 @@
 [![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)](https://gohugo.io/)
 [![Codium](https://img.shields.io/badge/VSCodium-2F80ED.svg?style=for-the-badge&logo=vscodium&logoColor=white)](https://vscodium.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
