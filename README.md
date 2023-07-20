@@ -46,3 +46,4 @@
 [![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)](https://gohugo.io/)
 [![Codium](https://img.shields.io/badge/VSCodium-2F80ED.svg?style=for-the-badge&logo=vscodium&logoColor=white)](https://vscodium.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)](https://pi-hole.net/)
