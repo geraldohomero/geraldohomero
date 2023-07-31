@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Geraldo Homero
 - 👀 I’m interested in: Full Stack Development, Digital History and Linux
 - 🌱 I’m currently learning: C#, .NET, ASP.NET Core, SQL and React.js
-- 💞️ I'm looking to collaborate on Open Source projects that want to make an impact on other people's lives 
+- 💞️ I'm looking to collaborate on Open Source projects that aim to make a positive impact on people's lives.
 - 🖥️ Current OS: Pop!_OS (main) - NixOS and Manjaro (VM)
 - 🧾 [Certificates](https://geraldohomero.github.io/certificates/)
 
