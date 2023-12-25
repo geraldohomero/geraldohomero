@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Geraldo Homero
 - 👀 I’m interested in: Full Stack Development, Digital History, GNU/Linux
-- 🌱 I’m currently learning: React.js, Node.js
+- 🌱 I’m currently learning: React.js and Node.js
 - 💞️ I'm looking to collaborate on Open Source projects that aim to make a positive impact on people's lives.
 - 🖥️ Current OS: Pop!_OS (main) - NixOS and Manjaro (VM)
 
