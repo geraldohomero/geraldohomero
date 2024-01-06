@@ -41,7 +41,6 @@
   <a href= "https://azure.microsoft.com/en-us/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width= "40" height= "40"/></a>
   <a href="https://gohugo.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" width="40" height="40"/></a>
   <a href="https://www.gimp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/></a>
 </div>
 
