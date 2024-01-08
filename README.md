@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/70844369/214718557-cfae56a9-07f7-4cd3-8464-1e379acccfd5.png)
 
 - 👋 Hi, I’m Geraldo Homero
-- 👀 I’m interested in: Full Stack Development, Digital History, GNU/Linux
+- 👀 I’m interested in: Full Stack Development, Digital History and Linux
 - 🌱 I’m currently learning: React.js and Node.js
 - 💞️ I'm looking to collaborate on Open Source projects that aim to make a positive impact on people's lives.
 - 🖥️ Current OS: Pop!_OS (main) - NixOS and Manjaro (VM)
