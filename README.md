@@ -1,10 +1,10 @@
 ![image](https://user-images.githubusercontent.com/70844369/214718557-cfae56a9-07f7-4cd3-8464-1e379acccfd5.png)
 
 - 👋 Hi, I’m Geraldo Homero
-- 👀 I’m interested in: Full Stack Development, Digital History and Linux
-- 🌱 I’m currently learning: React.js and Node.js
-- 💞️ I'm looking to collaborate on Open Source projects that aim to make a positive impact on people's lives.
-- 🖥️ Current OS: Pop!_OS (main) - NixOS and Manjaro (VM)
+- 👀 I’m interested in: Full Stack Development, Linux and Digital History
+- 🌱 I’m currently learning: Node.js and React
+- 💞️ I'm looking to collaborate on Open Source projects that aim to make a positive impact on people's lives. If you are hiring, I'm looking for a job as a JavaScript/.NET C# developer.
+- 🖥️ Current OS: Pop!_OS (main) - NixOS and Manjaro (VM) I kinda use arch btw!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldohomero/)
 [![Twitter](https://img.shields.io/badge/Twitter-%232c2c2c.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/geraldohomero)
