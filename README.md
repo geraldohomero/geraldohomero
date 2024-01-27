@@ -2,8 +2,9 @@
 
 - 👋 Hi, I’m Geraldo Homero
 - 👀 I’m interested in: Full Stack Development, Linux and Digital History
-- 🌱 I’m currently learning: React Native and Rust
-- 💞️ I'm looking to collaborate on Open Source projects that aim to make a positive impact on people's lives. If you are hiring, I'm looking for a job as a React/JavaScript and .NET/C# developer.
+- 🌱 I’m currently learning: Next.js, React Native and Rust
+- 💞️ I'm looking to collaborate on Open Source projects that aim to make a positive impact on people's lives.
+- 👤 If you are hiring, I'm looking for a job as a React/JavaScript and .NET/C# developer.
 - 🖥️ Current OS: Pop!_OS (main) - NixOS and Manjaro (VM) I kinda use arch btw!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldohomero/)
