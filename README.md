@@ -4,13 +4,14 @@
 - 👀 I’m interested in: Full Stack Development, Linux and Digital History
 - 🌱 I’m currently learning: Next.js, React Native and Rust
 - 💞️ I'm looking to collaborate on Open Source projects that aim to make a positive impact on people's lives
-- 👤 If you are hiring, I'm looking for a job as a React/JavaScript and .NET/C# developer
 - 🖥️ Current OS: Pop!_OS (main) - NixOS and Manjaro (VM) I kinda use arch btw!
+- 👤 If you are hiring, I'm looking for a job as a React/JavaScript and .NET/C# developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldohomero/)
 [![Twitter](https://img.shields.io/badge/Twitter-%232c2c2c.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/geraldohomero)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@geraldohomero)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/geraldohomero)
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-%23000000.svg?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/geraldohomero/)
 
 ### Skills
 
