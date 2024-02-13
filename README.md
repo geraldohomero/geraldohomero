@@ -30,7 +30,7 @@
   <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"/></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width= "40" height= "40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width= "40" height= "40"/></a>
   <a href= "https://getbootstrap.com/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width= "40" height= "40"/></a>
   <a href= "https://www.ecma-international.org/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "40" height= "40"/></a>
   <a href= "https://nodejs.org/"  target= "_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width= "40" height= "40"/></a>
