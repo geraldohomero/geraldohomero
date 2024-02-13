@@ -18,7 +18,8 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/></a>
-  <a href="https://www.vim.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40"/></a>
+  <a href="https://www.jetbrains.com/rider/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" width="40" height="40"/></a>
+  <a href="https://neovim.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/></a>
   <a href="https://www.debian.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40"/></a>
   <a href="https://nixos.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" width="40" height="40"/></a>
@@ -38,8 +39,10 @@
   <a href= "https://docs.microsoft.com/en-us/dotnet/csharp/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width= "40" height= "40"/></a>
   <a href= "https://dotnet.microsoft.com/download/dotnet-core/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width= "40" height= "40"/></a>
   <a href= "https://dotnet.microsoft.com/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width= "40" height= "40"/></a>
+  <a href= "https://insomnia.rest/" target= "_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width= "40" height= "40"/></a>
   <a href= "https://www.mysql.com/" target= "_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width= "40" height= "40"/></a>
-  <a href= "https://www.postgresql.org/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width= "40" height= "40"/></a>
+  <a href="www.microsoft.com/sqlserver/" target= "_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width= "40" height= "40"/></a>
+  <a href="https://www.mongodb.com/" target= "_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width= "40" height= "40"/></a>
   <a href= "https://azure.microsoft.com/en-us/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width= "40" height= "40"/></a>
   <a href="https://gohugo.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" width="40" height="40"/></a>
   <a href="https://www.gimp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40" height="40"/></a>
