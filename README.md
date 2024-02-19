@@ -28,17 +28,17 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/glyph-neue/64/FFFFFF/github.png" width="40" height="40"/></a>
-  <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"/></a>
-  <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width= "40" height= "40"/></a>
-  <a href="https://getbootstrap.com/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width= "40" height= "40"/></a>
   <a href="https://www.ecma-international.org/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "40" height= "40"/></a>
   <a href="https://nodejs.org/"  target= "_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width= "40" height= "40"/></a>
   <a href="https://reactjs.org/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width= "40" height= "40"/></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width= "40" height= "40"/></a>
   <a href="https://dotnet.microsoft.com/download/dotnet-core/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width= "40" height= "40"/></a>
   <a href="https://dotnet.microsoft.com/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width= "40" height= "40"/></a>
+  <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"/></a>
+  <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width= "40" height= "40"/></a>
+  <a href="https://getbootstrap.com/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width= "40" height= "40"/></a>
   <a href="https://insomnia.rest/" target= "_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width= "40" height= "40"/></a>
   <a href="https://www.mysql.com/" target= "_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width= "40" height= "40"/></a>
   <a href="https://www.microsoft.com/sqlserver/" target= "_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width= "40" height= "40"/></a>
