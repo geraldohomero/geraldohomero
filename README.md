@@ -43,6 +43,7 @@
   <a href= "https://www.mysql.com/" target= "_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width= "40" height= "40"/></a>
   <a href="www.microsoft.com/sqlserver/" target= "_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width= "40" height= "40"/></a>
   <a href="https://www.mongodb.com/" target= "_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width= "40" height= "40"/></a>
+  <a href ="https://www.sqlite.org/index.html" target= "_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width= "40" height= "40"/></a>
   <a href= "https://azure.microsoft.com/en-us/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width= "40" height= "40"/></a>
   <a href="https://gohugo.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" width="40" height="40"/></a>
   <a href="https://www.gimp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40" height="40"/></a>
