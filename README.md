@@ -31,6 +31,7 @@
   <a href="https://www.ecma-international.org/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "40" height= "40"/></a>
   <a href="https://nodejs.org/"  target= "_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width= "40" height= "40"/></a>
   <a href="https://reactjs.org/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width= "40" height= "40"/></a>
+  <a href="https://expo.dev" target="_blank"><img src="https://github.com/expo.png" width="40" height="40"/></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width= "40" height= "40"/></a>
   <a href="https://dotnet.microsoft.com/download/dotnet-core/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width= "40" height= "40"/></a>
   <a href="https://dotnet.microsoft.com/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width= "40" height= "40"/></a>
