@@ -54,11 +54,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=geraldohomero&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldohomero&layout=compact&theme=transparent&bg_color=00000000&langs_count=8&hide_border=true&hide=markdown&exclude_repo=geraldohomero.github.io&)
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=geraldohomero&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" />
-  </a>
-</p>
 
 >*Powered by:*
 
