@@ -55,6 +55,8 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=geraldohomero&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldohomero&layout=compact&theme=transparent&bg_color=00000000&langs_count=8&hide_border=true&hide=markdown&exclude_repo=geraldohomero.github.io&)
 
+<figure><embed src="https://wakatime.com/share/@0680d62f-d86e-4e81-8e9a-bab6b444e48f/d454abf0-29b2-49f7-ae10-7fa3810eb4d1.svg"></embed></figure>
+
 >*Powered by:*
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/)
