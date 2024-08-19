@@ -21,15 +21,17 @@
   <a href="https://nixos.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" width="40" height="40"/></a>
   <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" height="40"/></a>
   <a href="https://archlinux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/glyph-neue/64/FFFFFF/github.png" width="40" height="40"/></a>
+  <a href="https://www.uml.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="40" height="40"/></a>
   <a href="https://www.ecma-international.org/" target= "_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "40" height= "40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
   <a href="https://nodejs.org/"  target= "_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width= "40" height= "40"/></a>
   <a href="https://reactjs.org/" target= "_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width= "40" height= "40"/></a>
-  <a href="https://expo.dev" target="_blank"><img src="https://github.com/expo.png" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
+  <a href="https://expo.dev" target="_blank"><img src="https://img.icons8.com/?size=100&id=4YmrqudTVJhf&format=png&color=000000" width="40" height="40"/></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width= "40" height= "40"/></a>
   <a href="https://dotnet.microsoft.com/download/dotnet-core/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width= "40" height= "40"/></a>
   <a href="https://dotnet.microsoft.com/" target= "_blank"><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width= "40" height= "40"/></a>
