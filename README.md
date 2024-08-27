@@ -52,7 +52,7 @@
 <div>
 <h3> Data Analysis and Machine Learning </h3>
 <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://www.pythorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40"/></a>
+<a href="https://www.pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
 <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/></a>
 <a href="https://www.jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/></a>
