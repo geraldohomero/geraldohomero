@@ -6,7 +6,7 @@
 - 🖥️ Current OS: Pop!_OS (main) - NixOS and Manjaro (VM)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldohomero/)
-[![Twitter](https://img.shields.io/badge/Bluesky-%006dc8.svg?style=for-the-badge&logo=bluesky&logoColor=blue)](https://twitter.com/geraldohomero)
+[![Twitter](https://img.shields.io/badge/Bluesky-%232B90D9.svg?style=for-the-badge&logo=bluesky&logoColor=blue)](https://bsky.app/profile/geraldohomero.bsky.social)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@geraldohomero)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/geraldohomero)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-%23000000.svg?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/geraldohomero/)
