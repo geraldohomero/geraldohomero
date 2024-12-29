@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Geraldo Homero
 - ❇️ I’m interested in: Digital History, Digital Humanities, Data Analysis, Linux & Full Stack Development
 - 💞️ I'm looking to collaborate on Open Source projects that aim to make a positive impact on people's lives
-- 🖥️ Current OS: Pop!_OS (main) - NixOS and Manjaro (VM)
+- 🖥️ Current OS: Fedora (main) - Pop!_OS and Manjaro (VM)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldohomero/)
 [![Twitter](https://img.shields.io/badge/Bluesky-006dc8.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/geraldohomero.bsky.social)
@@ -67,6 +67,7 @@
 >*Powered by:*
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/)
+[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedora.org)
 [![Pop!\_OS](https://img.shields.io/badge/pop!\_os-48B9C7?style=for-the-badge&logo=popos&logoColor=white)](https://pop.system76.com/)
 [![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)](https://tails.boum.org/)
 [![NixOS](https://img.shields.io/badge/nixos-5277C3.svg?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
