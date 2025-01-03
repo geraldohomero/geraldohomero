@@ -5,7 +5,7 @@
 - 💞️ I'm looking to collaborate on Open Source projects that aim to make a positive impact on people's lives
 - 🖥️ Current OS: Fedora (main) - Pop!_OS and Manjaro (VM)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldohomero/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldohomero/)
 [![Twitter](https://img.shields.io/badge/Bluesky-006dc8.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/geraldohomero.bsky.social)
 [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/geraldohomero)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/geraldohomero)
