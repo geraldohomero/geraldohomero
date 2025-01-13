@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Geraldo Homero
 - ❇️ I’m interested in: Digital History, Digital Humanities, Data Analysis, Linux & Full Stack Development
 - 💞️ I'm looking to collaborate on Open Source projects that aim to make a positive impact on people's lives
-- 🖥️ Current OS: Fedora (main) - Pop!_OS and Manjaro (VM)
+- 🖥️ Current OS: Fedora (main) - Pop!_OS and NixOS (VM)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldohomero/)
 [![Twitter](https://img.shields.io/badge/Bluesky-006dc8.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/geraldohomero.bsky.social)
@@ -71,7 +71,6 @@
 [![Pop!\_OS](https://img.shields.io/badge/pop!\_os-48B9C7?style=for-the-badge&logo=popos&logoColor=white)](https://pop.system76.com/)
 [![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)](https://tails.boum.org/)
 [![NixOS](https://img.shields.io/badge/nixos-5277C3.svg?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
-[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)](https://manjaro.org/)
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://debian.org/)
 [![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)](https://bitwarden.com/)
 [![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)](https://jellyfin.org/)
