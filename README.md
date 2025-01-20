@@ -93,7 +93,4 @@
 [![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)](https://pi-hole.net/)
 
 
-|        |      O |       |
-|---     |---     |---    |
-|        |        | **O** |
-| **O**  | **O**  | **O** |
+<img src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' /></a>
