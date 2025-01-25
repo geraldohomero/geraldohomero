@@ -9,7 +9,7 @@
 [![Twitter](https://img.shields.io/badge/Bluesky-006dc8.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/geraldohomero.bsky.social)
 [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/geraldohomero)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/geraldohomero)
-[![Letterboxd](https://img.shields.io/badge/Letterboxd-%23000000.svg?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/geraldohomero/)
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-1f262d.svg?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/geraldohomero/)
 
 ### Development Stack
 
