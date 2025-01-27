@@ -4,10 +4,7 @@
 - 🎓 Historian bridging academia with tech through Digital Humanities, Data Science, and Open Source. 
 - 🛠️ Tech toolkit: Full Stack Dev • Data Analysis
 - 📚 Research & Projects
-  - Exploring how technology and social networks websites reshapes historical narratives,  with expertise in:
-    - Digital Preservation & Public History
-    - Critical Internet Studies & Digital Media
-    - Memory Studies in the Digital Era
+  -  Exploring how technology reshapes historical narratives: Through Critical Internet Studies, I analyze digital media’s role in power structures, memory politics, and historical negationism 
       - [Recent Work](https://geraldohomero.github.io/research/)
 - 🖥️ Current OS: Fedora (main) - Pop!_OS and NixOS (VM)
 
