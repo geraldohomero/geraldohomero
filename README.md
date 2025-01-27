@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m Geraldo Homero
 - ❇️ I’m interested in: Digital History, Digital Humanities, Data Analysis, Linux & Full Stack Development
+  - You can see my research [here](https://geraldohomero.github.io/research/)
 - 💞️ I'm looking to collaborate on Open Source projects that aim to make a positive impact on people's lives
 - 🖥️ Current OS: Fedora (main) - Pop!_OS and NixOS (VM)
 
