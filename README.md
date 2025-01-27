@@ -1,8 +1,14 @@
 ![image](https://user-images.githubusercontent.com/70844369/214718557-cfae56a9-07f7-4cd3-8464-1e379acccfd5.png)
 
+- 👋 Hi, I'm Geraldo Homero
+- 💡 Passionate about: Digital History & Digital Humanities • Data-Driven Storytelling • Open Source Development
+- 🛠️ Tech toolkit: Linux (Fedora/NixOS) • Full Stack Dev • Data Analysis
+- 📚 Research & Projects
+  - Exploring how technology and social networks websites transforms historical narratives → [Recent Work](https://geraldohomero.github.io/research/)
+
 - 👋 Hi, I’m Geraldo Homero
 - ❇️ I’m interested in: Digital History, Digital Humanities, Data Analysis, Linux & Full Stack Development
-  - You can see my research [here](https://geraldohomero.github.io/research/)
+- 🎓 You can see my research [here](https://geraldohomero.github.io/research/)
 - 💞️ I'm looking to collaborate on Open Source projects that aim to make a positive impact on people's lives
 - 🖥️ Current OS: Fedora (main) - Pop!_OS and NixOS (VM)
 
