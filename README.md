@@ -18,7 +18,7 @@
   <a href="https://www.debian.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40"/></a>
   <a href="https://nixos.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" width="40" height="40"/></a>
   <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" height="40"/></a>
-  <a href="https://fedoraproject.org/" target="_blank"><<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="40" height="40"/></a>
+  <a href="https://fedoraproject.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="40" height="40"/></a>
   <a href="https://archlinux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" width="40" height="40"/></a>
   <a href="https://podman.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" width="40" height="40"/></a>
