@@ -100,5 +100,6 @@
   <a href="https://infoguerrilla.github.io/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/208298958?s=200&v=4" alt="Info_Guerrilla Logo" width="40" height="40" style="margin-right: 10px;"/>
   </a>
+  
   <span>Visit my blog <a href="https://infoguerrilla.github.io/" target="_blank">Info_Guerrilla</a>, where I share my thoughts on technology, open source, and digital humanities.</span>
 </div>
