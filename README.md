@@ -67,7 +67,7 @@
 <a href="https://d3js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg" width="40" height="40"/></a>
 </div>
 
-![Stats](http://github-readme-stats-neon-phi.vercel.app/api?username=geraldohomero&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true)
+![Stats](http://github-readme-stats-neon-phi.vercel.app/api?username=geraldohomero&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&include_all_commits=false)
 ![Top Langs](https://github-readme-stats-neon-phi.vercel.app/api/top-langs/?username=geraldohomero&layout=compact&theme=transparent&bg_color=00000000&langs_count=8&hide_border=true&hide=markdown&exclude_repo=geraldohomero.github.io&)
 
 >*Powered by:*
