@@ -12,7 +12,7 @@
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-1f262d.svg?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/geraldohomero/)
 
 ![Stats](http://github-readme-stats-neon-phi.vercel.app/api?username=geraldohomero&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true)
-![Top Langs](https://github-readme-stats-neon-phi.vercel.app/api/top-langs/?username=geraldohomero&layout=compact&theme=transparent&bg_color=00000000&langs_count=8&hide_border=true&hide=markdown&exclude_repo=geraldohomero.github.io)
+![Top Langs](https://github-readme-stats-neon-phi.vercel.app/api/top-langs/?username=geraldohomero&layout=compact&theme=transparent&bg_color=00000000&langs_count=8&hide_border=true&hide=markdown;tex&exclude_repo=geraldohomero.github.io)
 
 >*Powered by:*
 
