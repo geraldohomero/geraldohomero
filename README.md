@@ -5,10 +5,9 @@
 - 💞️ I'm looking to collaborate on Open Source projects that aim to make a positive impact on people's lives
 - 🖥️ Current OS: Fedora (main) - Debian (VM)
 
+[![OSF](https://img.shields.io/badge/OSF-2CB9F1.svg?style=for-the-badge&logo=osf&logoColor=white)](https://osf.io/26mfq/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldohomero/)
-[![Twitter](https://img.shields.io/badge/Bluesky-006dc8.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/geraldohomero.bsky.social)
-[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/geraldohomero)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/geraldohomero)
+[![Bluesky](https://img.shields.io/badge/Bluesky-006dc8.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/geraldohomero.bsky.social)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-1f262d.svg?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/geraldohomero/)
 
 ![Stats](http://github-readme-stats-neon-phi.vercel.app/api?username=geraldohomero&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true)
