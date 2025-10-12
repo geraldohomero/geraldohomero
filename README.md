@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Geraldo Homero
 - ❇️ I’m interested in: Digital Humanities, Data Analysis, Linux & Full Stack Development
 - 💞️ I'm looking to collaborate on Open Source projects that aim to make a positive impact on people's lives
-- 🖥️ Current OS: Fedora (main) - Debian (VM)
+- 🖥️ Current OS: Fedora (main) & Arch
 
 [![OSF](https://img.shields.io/badge/orcid-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org/0000-0001-6686-7182)
 [![ORCID](https://img.shields.io/badge/OSF-2CB9F1.svg?style=for-the-badge&logo=osf&logoColor=white)](https://osf.io/26mfq/)
