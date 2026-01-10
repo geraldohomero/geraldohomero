@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/70844369/214718557-cfae56a9-07f7-4cd3-8464-1e379acccfd5.png)
 
-- 👋 Hi, I’m Geraldo [光杰豪] 
+- 👋 Hi, I’m Geraldo
 - ❇️ I’m interested in: Digital Humanities, Data Analysis, Linux & Full Stack Development
 - ⚒️ I'm looking to collaborate on Open Source projects that aim to make a positive impact on people's lives
 - 🌎 I advocate for Free and Open Source Software, Privacy, Digital Rights, and Open Science. I believe that technology should be accessible to everyone and that we must work together to create a more equitable digital future, free from capitalist interests and big tech monopolies.
