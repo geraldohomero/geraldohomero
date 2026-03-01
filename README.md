@@ -14,13 +14,12 @@
 ![Stats](http://github-readme-stats-neon-phi.vercel.app/api?username=geraldohomero&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true)
 ![Top Langs](https://github-readme-stats-neon-phi.vercel.app/api/top-langs/?username=geraldohomero&layout=compact&theme=transparent&bg_color=00000000&langs_count=8&hide_border=true&hide=markdown,tex&exclude_repo=geraldohomero.github.io)
 
-<div style="display: flex; align-items: center; justify-content: center; text-align: center;">
+<div>
   <a href="https://infoguerrilla.github.io/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/208298958?s=200&v=4" alt="Info_Guerrilla Logo" width="40" height="40" style="margin-right: 10px;"/>
   </a>
 </div>
-
-<div style="display: flex; align-items: center; justify-content: center; text-align: center;">
+<div>
   <a href="https://universitas-io.github.io/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/263271277?s=200&v=4" alt="Universitar Logo" width="40" height="40" style="margin-right: 10px;"/>
   </a>
