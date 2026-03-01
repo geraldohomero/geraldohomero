@@ -18,5 +18,10 @@
   <a href="https://infoguerrilla.github.io/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/208298958?s=200&v=4" alt="Info_Guerrilla Logo" width="40" height="40" style="margin-right: 10px;"/>
   </a>
-  <span>Visit <a href="https://infoguerrilla.github.io/" target="_blank">Info_Guerrilla</a>, where I share my thoughts on technology, open source, and digital humanities.</em></span>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: center; text-align: center;">
+  <a href="https://universitas-io.github.io/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/263271277?s=200&v=4" alt="Universitar Logo" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
 </div>
