@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/70844369/214718557-cfae56a9-07f7-4cd3-8464-1e379acccfd5.png)
-
 - 👋 Hi, I’m Geraldo
 - ❇️ I’m interested in: Digital Humanities, Data Analysis, Linux & Full Stack Development
 - ⌨️ Technical Stack: JavaScript, React, C#, .NET, Python, R
