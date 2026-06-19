@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Geraldo
 - ❇️ I’m interested in: Digital Humanities, Data Analysis, Linux & Full Stack Development
-- ⌨️ Technical Stack: JavaScript, React, C#, .NET, Python, R
+- ⌨️ Technical Stack: JavaScript, TypeScript, React, C#, .NET, Rust, Python, R
 - ⚒️ I'm looking to collaborate on Open Source projects that aim to make a positive impact on people's lives
 - 🌎 I advocate for Free and Open Source Software, Privacy, Digital Rights, and Open Science. I believe that technology should be accessible to everyone and that we must work together to create a more equitable digital future, free from capitalist interests and big tech monopolies.
 
