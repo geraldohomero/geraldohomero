@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Geraldo
+- 👋 Hi, I’m Geraldo [寇杰瑞】
 - ❇️ I’m interested in Digital Humanities, Data Analysis, Linux & Full Stack Development
 - ⌨️ Technical Stack: JavaScript, TypeScript, React, C#, .NET, Rust, Python, R
 - ⚒️ I'm looking to collaborate on Open Source projects that aim to make a positive impact on people's lives
