@@ -29,7 +29,7 @@
         <a href="https://github.com/geraldohomero/VLL-VideoLanguageLearner"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository" /></a>
         <a href="https://chromewebstore.google.com/detail/vll-%E2%80%94-video-language-lear/ogpjmaegllcpjnfmifjfnbacgonjakbi"><img src="https://img.shields.io/badge/Chrome-Web_Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store" /></a>
         <a href="https://addons.mozilla.org/pt-BR/firefox/addon/vll-video-language-learner/"><img src="https://img.shields.io/badge/Firefox-Add--ons-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Firefox Add-ons" /></a>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       </p>
     </td>
   </tr>
