@@ -34,25 +34,6 @@
     </td>
   </tr>
 
-  <!-- GTKetchup -->
-  <tr>
-    <td width="120" align="center" valign="middle">
-      <a href="https://github.com/geraldohomero/GTKetchup">
-        <img src="assets/gtketchup.png" width="90" alt="GTKetchup Logo" />
-      </a>
-    </td>
-    <td valign="middle">
-      <h3><a href="https://github.com/geraldohomero/GTKetchup">GTKetchup</a></h3>
-      <p>A native GNOME Pomodoro timer built with GTK4 and Libadwaita, packaged as a Flatpak. It features a custom-drawn circular interface that dynamically changes colors the longer you focus, with tactile scroll-wheel control.</p>
-      <p>
-        <a href="https://github.com/geraldohomero/GTKetchup"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository" /></a>
-        <a href="https://github.com/geraldohomero/GTKetchup/releases"><img src="https://img.shields.io/badge/Flatpak-Download-4A90E2?style=flat-square&logo=flatpak&logoColor=white" alt="Flatpak" /></a>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/GTK4-Libadwaita-4A90E2?style=flat-square&logo=gnome&logoColor=white" alt="GTK4" />
-      </p>
-    </td>
-  </tr>
-
   <!-- NarroPDF -->
   <tr>
     <td width="120" align="center" valign="middle">
@@ -87,6 +68,25 @@
         <a href="https://github.com/geraldohomero/Narro-Read-Selection-Aloud/releases"><img src="https://img.shields.io/badge/Flatpak-Download-4A90E2?style=flat-square&logo=flatpak&logoColor=white" alt="Flatpak" /></a>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/GNOME-TTS-E66100?style=flat-square&logo=linux&logoColor=white" alt="GNOME" />
+      </p>
+    </td>
+  </tr>
+
+  <!-- GTKetchup -->
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <a href="https://github.com/geraldohomero/GTKetchup">
+        <img src="assets/gtketchup.png" width="90" alt="GTKetchup Logo" />
+      </a>
+    </td>
+    <td valign="middle">
+      <h3><a href="https://github.com/geraldohomero/GTKetchup">GTKetchup</a></h3>
+      <p>A native GNOME Pomodoro timer built with GTK4 and Libadwaita, packaged as a Flatpak. It features a custom-drawn circular interface that dynamically changes colors the longer you focus, with tactile scroll-wheel control.</p>
+      <p>
+        <a href="https://github.com/geraldohomero/GTKetchup"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository" /></a>
+        <a href="https://github.com/geraldohomero/GTKetchup/releases"><img src="https://img.shields.io/badge/Flatpak-Download-4A90E2?style=flat-square&logo=flatpak&logoColor=white" alt="Flatpak" /></a>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/GTK4-Libadwaita-4A90E2?style=flat-square&logo=gnome&logoColor=white" alt="GTK4" />
       </p>
     </td>
   </tr>
