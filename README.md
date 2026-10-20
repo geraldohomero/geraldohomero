@@ -43,7 +43,7 @@
     </td>
     <td valign="middle">
       <h3><a href="https://github.com/geraldohomero/GTKetchup">GTKetchup</a></h3>
-      <p>A native GNOME Pomodoro timer built with GTK4 and Libadwaita. It features a custom-drawn circular interface that dynamically changes colors the longer you focus, with tactile scroll-wheel control.</p>
+      <p>A native GNOME Pomodoro timer built with GTK4 and Libadwaita, packaged as a Flatpak. It features a custom-drawn circular interface that dynamically changes colors the longer you focus, with tactile scroll-wheel control.</p>
       <p>
         <a href="https://github.com/geraldohomero/GTKetchup"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository" /></a>
         <a href="https://github.com/geraldohomero/GTKetchup/releases"><img src="https://img.shields.io/badge/Flatpak-Download-4A90E2?style=flat-square&logo=flatpak&logoColor=white" alt="Flatpak" /></a>
@@ -62,9 +62,10 @@
     </td>
     <td valign="middle">
       <h3><a href="https://github.com/geraldohomero/NarroPDF">NarroPDF</a></h3>
-      <p>Modern, accessible PDF reader and annotator for Linux with real-time synchronized Text-to-Speech (TTS), customizable highlighting, and chapter navigation.</p>
+      <p>Modern, accessible PDF reader and annotator for Linux distributed as a Flatpak, featuring real-time synchronized Text-to-Speech (TTS), customizable highlighting, and chapter navigation.</p>
       <p>
         <a href="https://github.com/geraldohomero/NarroPDF"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository" /></a>
+        <a href="https://github.com/geraldohomero/NarroPDF/releases"><img src="https://img.shields.io/badge/Flatpak-Download-4A90E2?style=flat-square&logo=flatpak&logoColor=white" alt="Flatpak" /></a>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/GTK4-Libadwaita-4A90E2?style=flat-square&logo=gnome&logoColor=white" alt="GTK4" />
       </p>
@@ -80,9 +81,10 @@
     </td>
     <td valign="middle">
       <h3><a href="https://github.com/geraldohomero/Narro-Read-Selection-Aloud">NarroRSA — Read Selection Aloud</a></h3>
-      <p>Native GNOME/Wayland TTS utility supporting Edge TTS (online neural voices) and Piper TTS (offline local voices) triggered instantly via keyboard shortcuts.</p>
+      <p>Native GNOME/Wayland TTS utility distributed as a Flatpak, supporting Edge TTS (online neural voices) and Piper TTS (offline local voices) triggered instantly via keyboard shortcuts.</p>
       <p>
         <a href="https://github.com/geraldohomero/Narro-Read-Selection-Aloud"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository" /></a>
+        <a href="https://github.com/geraldohomero/Narro-Read-Selection-Aloud/releases"><img src="https://img.shields.io/badge/Flatpak-Download-4A90E2?style=flat-square&logo=flatpak&logoColor=white" alt="Flatpak" /></a>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/GNOME-TTS-E66100?style=flat-square&logo=linux&logoColor=white" alt="GNOME" />
       </p>
