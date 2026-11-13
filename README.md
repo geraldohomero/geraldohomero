@@ -103,7 +103,7 @@
       <p>Obsidian plugin to import Goodreads CSV library exports into Markdown notes with customizable YAML frontmatter, fetched book synopses, and local cover images.</p>
       <p>
         <a href="https://github.com/geraldohomero/goodreads-csv-importer"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repository" /></a>
-        <a href="https://github.com/geraldohomero/goodreads-csv-importer/releases"><img src="https://img.shields.io/badge/Obsidian-Plugin-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian Plugin" /></a>
+        <a href="https://community.obsidian.md/plugins/goodreads-csv-importer"><img src="https://img.shields.io/badge/Obsidian-Plugin-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian Plugin" /></a>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       </p>
     </td>
