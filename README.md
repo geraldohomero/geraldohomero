@@ -91,7 +91,6 @@
     </td>
   </tr>
 
-    <!-- Goodreads CSV Importer -->
   <tr>
     <td width="120" align="center" valign="middle">
       <a href="https://github.com/geraldohomero/goodreads-csv-importer">
